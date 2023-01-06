@@ -207,6 +207,7 @@ hr{
     gap: 100px;
     background: #FFF8F3;
     padding:120px 100px;
+    margin-top: 90px;
 
 
 }
@@ -245,4 +246,8 @@ hr{
     border: 0;
     border-radius: 5px;
 
+}
+.contact a{
+    text-decoration: none;
+    margin-right:10px;
 }
